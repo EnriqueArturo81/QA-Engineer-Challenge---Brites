@@ -1,1 +1,1 @@
-# QA-Engineer-Challenge---Brites
+# QA Engineer Challenge Brites
